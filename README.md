@@ -8,7 +8,7 @@ This project uses unsupervised machine learning to segment Grocery Mart's custom
 ## Dataset Structure
 The dataset used for this project consists of a single source:
 
-- [Grocery Mart Data](data.csv): customer demographic and purchase history records, comprising 2,240 rows across 29 raw columns, grouped into four categories (_Demographics_, _Customer Tenure_, _Spending by Category_, _Purchase Channels & Purchase History_).
+- Grocery Mart Data: customer demographic and purchase history records, comprising 2,240 rows across 29 raw columns, grouped into four categories (_Demographics_, _Customer Tenure_, _Spending by Category_, _Purchase Channels & Purchase History_).
   
 Note: After removing rows with missing income values and capping age/income outliers, the working dataset used for clustering has 2,212 customers.
 
